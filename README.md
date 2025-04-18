@@ -54,6 +54,6 @@ This component supports **informed decisions** around inventory, product focus, 
 1. Visit the [Tableau Public dashboard](https://public.tableau.com/app/profile/tetiana.dynys/viz/SalesDashboard_17399900631840/SalesDashboard).
 2. Interact with filters and charts to explore data across different dimensions.
 
-![Dashboard Screenshot](Sales Dashboard.png)
+![Dashboard Screenshot](Sales%20Dashboard.png)
 
 ---
